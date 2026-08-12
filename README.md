@@ -109,8 +109,8 @@ Seeds 6 categories, 20 products, and two accounts:
 
 | Role     | Email                            | Password     |
 |----------|-----------------------------------|--------------|
-| Admin    | admin@leathertiqueimpex.com       | Admin@123    |
-| Customer | customer@leathertiqueimpex.com    | Customer@123 |
+| Admin    | sample123@leathertiqueimpex.com       | sample    |
+| Customer | sample123@leathertiqueimpex.com    | sample123 |
 
 **These are demo credentials only — replace them before any production deployment.**
 
